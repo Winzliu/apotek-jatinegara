@@ -110,6 +110,10 @@ Apotek Jati Negara adalah aplikasi apotek online yang memungkinkan pengguna untu
    - #### Buka Proyek di Browser
       Buka browser dan kunjungi alamat yang ditampilkan di terminal. Biasanya, ini adalah `http://127.0.0.1:8000`.
 
+     #### NB:
+         Username: -cek dimysql-
+         Password: password
+
 # [Kontributor](#kontributor)
 - ### Alwin Liufandy
   - Instagram: @winz.liu
