@@ -105,6 +105,8 @@ Apotek Jati Negara adalah aplikasi apotek online yang memungkinkan pengguna untu
    - #### Jalankan Server Lokal
      #### jalankan perintah berikut:
          php artisan serve
+     #### lalu
+         php artisan storage:link
      #### dan
          npm run dev
    - #### Buka Proyek di Browser
